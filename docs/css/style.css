@@ -45,9 +45,9 @@ display: flex;
 
 /* _________________________________________ */
 
-.part-1 {
+.part {
   padding: 120px 0;
-  background: url("..img/hero-bg.jpg") 10% 50% / cover no-repeat;
+  background: url("../img/hero-bg.jpg") 10% 50% / cover no-repeat;
 }
 
 .part-title {
@@ -184,11 +184,9 @@ margin: 4px;
 
 /* ______________________________________________ */
 
-.element {
+.footer {
   border-top: 1px solid #323952;
-  padding: 60px;
-  max-width: 100% ;
-  flex-shrink: 0;
+  padding: 60px 0;
 }
 
 .common-footer {
