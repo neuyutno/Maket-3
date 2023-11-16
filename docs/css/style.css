@@ -47,7 +47,7 @@ display: flex;
 
 .part-1 {
   padding: 120px 0;
-  background: url(../img/hero-bg.jpg) 10% 50% / cover no-repeat;
+  background: url(img/hero-bg.jpg) 10% 50% / cover no-repeat;
 }
 
 .part-title {
